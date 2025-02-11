@@ -1,0 +1,111 @@
+.full{
+    min-height:770px;
+    width:100%;
+}
+.image{
+    height:200px;
+    width:200px;
+    margin: auto;
+    margin-left: 45%;
+}
+.greet{
+    margin-left: 44%;
+    color:rgb(31, 73, 73);
+    margin-top: 7%;
+}
+.question{
+    margin-left: 40%;
+}
+.btn{
+    background-color:green;
+    height:40px;
+    width:100px;
+    margin-left: 50px;
+    font-weight:800;
+    text-transform: uppercase;
+    color:white;
+}
+.bttn{
+    margin-left: 41%;
+}
+.me{
+    margin-left: 47%;
+    font-weight: 700;
+    margin-top: -50px;
+}
+.question2{
+    margin-left: 43%;
+}
+.me2{
+    margin-left: 46%;
+    font-weight: 700;
+    margin-top: -50px;
+}
+.image1{
+    height:200px;
+    width:200px;
+    margin: auto;
+    margin-top: 7%;
+    margin-left: 45%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.btn4{
+    background-color:green;
+    height:40px;
+    width:100px;
+    font-weight:800;
+    text-align: center;
+    text-transform: uppercase;
+    color:white;
+    margin-left: 200px;
+    margin-top: -57px;
+}
+.btn4:hover{
+    background-color:green;
+    height:40px;
+    text-align: center;
+    width:100px;
+    margin-left: 50px;
+    font-weight:800;
+    text-transform: uppercase;
+    color:white;
+    /* animation-name: pooja;
+    animation-duration: 60s; */
+}
+.btn4 p{
+    margin-top: 20px;
+}
+.question4{
+    margin-left: 35%;
+}
+/* @keyframes pooja{
+    0%{
+        left: 110px;
+        top:1110px;
+    }
+    25%{
+        left: 500px;
+        top:0px;
+    }
+    50%{
+        background-color: pink;
+        left: 700px;
+        top:-200px;
+    }
+    75%{
+        background-color: aqua;
+        left: -300px;
+        top:-500px;
+    }
+    100%{
+        background-color: sandybrown;
+        left: 0px;
+        top:0px;
+    }
+} */
+ .accept{
+    margin-left: 46%;
+ }
